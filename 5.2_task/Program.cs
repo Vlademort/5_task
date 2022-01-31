@@ -31,7 +31,7 @@ namespace _5._2_task
                     min = a;
             }
             Console.WriteLine("Минимальное значение = {0}", min);
-            Console.WriteLine("Сумма максимального и минимального значения = {0}", max + min);
+            Console.WriteLine("Сумма минимального и максимального значения = {0}", max + min);
             Console.ReadKey();
         }
     }
